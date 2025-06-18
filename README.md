@@ -14,7 +14,7 @@ Built with ❤️ using **HTML**, **Tailwind CSS**, and **vanilla JavaScript** b
 ---
 
 ## 🌐 Live Demo
-👉 [https://yourusername.github.io/jsonspark/](https://yourusername.github.io/jsonspark/](https://jsonspark-pro.netlify.app/)
+👉 https://jsonspark-pro.netlify.app/
 
 ---
 
