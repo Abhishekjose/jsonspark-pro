@@ -32,3 +32,5 @@ Built with ❤️ using **HTML**, **Tailwind CSS**, and **vanilla JavaScript** b
 ### Clone the repository
 ```bash
 git clone https://github.com/yourusername/jsonspark.git
+## 📄 License
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
